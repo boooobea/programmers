@@ -12,7 +12,7 @@ public class Solution_13 {
     }
 
     public static String solution1(String my_string, int k ) {
-        return my_string.repeat(k);
+        return null; //my_string.repeat(k);
     }
     public static String solution(String my_string, int k) {
         StringBuffer sb = new StringBuffer();
